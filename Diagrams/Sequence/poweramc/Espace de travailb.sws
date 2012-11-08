@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{57D9C87F-083D-42D6-9D0C-289BA7B8902E}" Loaded="No" Name="Diagramme d&#39;activités UML_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ActivityGeneral.moo"/>
+		<Model Expanded="Yes" ID="{E22DB2EB-9B3D-4F66-A5A2-CE12E8144405}" Loaded="No" Name="Diagramme d&#39;activités UML_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagramme d&#39;activités UML_1General3.moo"/>
+		<Model Expanded="Yes" ID="{44D8D998-07EF-44B3-9A33-DD47091BAC1A}" Loaded="No" Name="Diagramme d&#39;activités UML_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagramme d&#39;activités UML_1General2.moo"/>
+		<Model Expanded="Yes" ID="{92307D74-92E9-4ACC-BE59-A755910270DE}" Name="MP3Psequences" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="MP3PBasic.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
