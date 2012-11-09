@@ -1,0 +1,3 @@
+ip ftp:	202.205.101.168
+user:	yjs12_t
+mdp:	12yjst
